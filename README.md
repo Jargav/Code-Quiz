@@ -1,6 +1,7 @@
 # Code-Quiz
 screenshot 
-![2021-12-21](https://user-images.githubusercontent.com/88358902/146992637-24278036-ccd2-4332-b658-8dee0960e227.png)
+![2021-12-21 (1)](https://user-images.githubusercontent.com/88358902/146993590-4f7bd79d-0ce5-417f-8bf1-54da2b3c3ae5.png)
+
 
 To begin click the start button 
 you have 75 seconds to complete the quiz
